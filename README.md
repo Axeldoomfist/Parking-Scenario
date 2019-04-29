@@ -1,2 +1,2 @@
-# parkingscenaio
+# parkingscenario
 Assignment For Bournemouth University
